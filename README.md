@@ -8,10 +8,10 @@ My background is unconventional: a BA in English Literature and Economics, years
 
 ## What I'm working on
 
-- **[homelab](https://github.com/yeghia-s/homelab)** — 8-VM Proxmox environment provisioned with Terraform (`bpg/proxmox`), MinIO S3 remote state on TrueNAS, full self-hosted service stack (Stoat, Ghost, DokuWiki, Medusa.js, open.mp, Prometheus/Grafana)
-- **[nixos-config](https://github.com/yeghia-s/nixos-config)** — declarative NixOS system with Hyprland/UWSM, Home Manager, flakes, sops-nix, four-layout keyboard (us/ca/de/am phonetic), goodix fingerprint driver
-- **[HyeTechWiki](https://wiki.hyetechnology.org)** — Armenian-language technical wiki for developers in the homeland and diaspora
-- **[Secondary Source](https://yeghiasargis.com)** — building toward digital sovereignty infrastructure for overlooked linguistic communities, with Armenian as the proof of concept
+- **[homelab](https://github.com/yeghia-s/homelab)** - 8-VM Proxmox environment provisioned with Terraform (`bpg/proxmox`), MinIO S3 remote state on TrueNAS, full self-hosted service stack (Stoat, Ghost, DokuWiki, Medusa.js, open.mp, Prometheus/Grafana)
+- **[nixos-config](https://github.com/yeghia-s/nixos-config)** - declarative NixOS system with Hyprland/UWSM, Home Manager, flakes, sops-nix, four-layout keyboard (us/ca/de/am phonetic), goodix fingerprint driver
+- **[HyeTechWiki](https://wiki.hyetechnology.org)** - Armenian-language technical wiki for developers in the homeland and diaspora
+- **[Secondary Source](https://yeghiasargis.com)** - building toward digital sovereignty infrastructure for overlooked linguistic communities, with Armenian as the proof of concept
 
 ---
 
@@ -30,7 +30,7 @@ My background is unconventional: a BA in English Literature and Economics, years
 
 Quadrilingual (English C2 · French C1 · German C1 · Armenian C1). The language background isn't incidental — it shapes why I care about building infrastructure for communities whose languages are underserved by the existing internet.
 
-I write a weekly called *Built and Written* at [yeghiasargis.com](https://yeghiasargis.com) — on infrastructure, systems, language, and the overlap between them. I shoot photography under [@yerishoots](https://instagram.com/yerishoots).
+I write a weekly called *Built and Written* at [yeghiasargis.com](https://yeghiasargis.com) on infrastructure, systems, language, and the overlap between them. I shoot photography under [@yerishoots](https://instagram.com/yerishoots).
 
 ---
 
