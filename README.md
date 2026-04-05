@@ -28,7 +28,7 @@ My background is unconventional: a BA in English Literature and Economics, years
 
 ## Background
 
-Quadrilingual (English C2 · French C1 · German C1 · Armenian C1). The language background isn't incidental — it shapes why I care about building infrastructure for communities whose languages are underserved by the existing internet.
+Quadrilingual (English C2 · French C1 · German C1 · Armenian C1). The language background isn't incidental, it shapes why I care about building infrastructure for communities whose languages are underserved by the existing internet.
 
 I write a weekly called *Built and Written* at [yeghiasargis.com](https://yeghiasargis.com) on infrastructure, systems, language, and the overlap between them. I shoot photography under [@yerishoots](https://instagram.com/yerishoots).
 
