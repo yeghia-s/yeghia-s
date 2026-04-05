@@ -1,6 +1,6 @@
 # Yeghia Sargis
 
-Self-taught infrastructure and systems engineer based in Mississauga, Ontario. I build and operate a full self-hosted stack — 8 VMs on Proxmox, provisioned via Terraform, running everything from a community chat platform to an Armenian-language technical wiki.
+Self-taught infrastructure and systems engineer based in Mississauga, Ontario. I build and operate a full self-hosted stack: 8 VMs on Proxmox, provisioned via Terraform, running everything from a community chat platform to an Armenian-language technical wiki.
 
 My background is unconventional: a BA in English Literature and Economics, years of bilingual customer-facing roles in financial services, and a deep self-directed education in Linux systems, networking, and infrastructure as code. No bootcamp, no CS degree — just a homelab and a lot of documentation.
 
